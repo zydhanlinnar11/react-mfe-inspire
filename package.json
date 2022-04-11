@@ -1,6 +1,6 @@
 {
   "name": "react-mfe-inspire",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inspire team example from micro-frontends.org with React.",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
