@@ -1,5 +1,3 @@
-import React from 'react'
-
 const products = [
   'https://micro-frontends.org/1-composition-client-only/team-green/images/reco_3.jpg',
   'https://micro-frontends.org/1-composition-client-only/team-green/images/reco_5.jpg',
