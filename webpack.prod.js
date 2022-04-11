@@ -26,7 +26,7 @@ module.exports = merge(common, {
   output: {
     filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: 'http://inspire.react-mfe.zydhan.com/',
+    publicPath: 'https://inspire.react-mfe.zydhan.com/',
   },
   optimization: {
     minimize: true,
